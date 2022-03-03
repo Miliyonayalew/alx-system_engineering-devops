@@ -1,2 +1,3 @@
 # alx-system_engineering-devops
 I'm now ALX student this my third repostry on borading practice
+ALX Bash projects using Linux 20.04

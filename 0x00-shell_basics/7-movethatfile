@@ -1,1 +1,1 @@
-- #!/bin/bash\nmv /tmp/bett/tmp/my_first_directory/betty
+#!bin/bash/nmv /tmp/betty/tmp/my_first_directory/betty
